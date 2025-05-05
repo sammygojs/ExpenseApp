@@ -1,3 +1,16 @@
+✅ Sprint 1 Goals Recap (In order of execution):
+Priority	Task	Notes
+🔵 1	Implement User entity and repository	Use Lombok + JPA
+🔵 2	Build Register and Login endpoints	With Spring Security + JWT
+🔵 3	Add JWT token filter + security config	Protect routes
+🔵 4	Write unit tests for AuthService using TDD	With JUnit + Mockito
+🔵 5	Document AuthController with Swagger annotations	OpenAPI docs
+🔵 6	Add Checkstyle and fix code style issues	Use google_checks.xml
+🔵 7	Generate Jacoco coverage report	Target: 80%+
+
+
+
+
 🚀 Sprint 1 – Project Setup & Authentication (Epic 1 + 9)
 [EPIC 1] Setup Spring Boot project with auth-service module
 
